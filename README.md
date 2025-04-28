@@ -11,6 +11,7 @@
   <a href="#english">English</a>
 </div>
 <div id="portuguese">
+  
 ## 📝 Descrição do Projeto
 
 Sistema fictício desenvolvido para fins de estudo, focado na gestão de clientes de uma academia. A aplicação permite registrar novos clientes com informações como nome, CPF e plano contratado, além de buscar clientes específicos e visualizar todos os registros em uma tabela dinâmica.
