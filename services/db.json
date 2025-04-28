@@ -61,5 +61,12 @@
         "plan": "Gold",
         "expiration": 90,
         "id": 9
+    },
+    {
+        "name": "Cliente J",
+        "registration": "146.252.877-88",
+        "plan": "Gold",
+        "expiration": 90,
+        "id": 10
     }
 ]
