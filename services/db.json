@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Client A",
+        "registration": "123.456.789-88",
+        "plan": "Basic",
+        "expiration": 30,
+        "id": 1
+    },
+    {
+        "name": "Client B",
+        "registration": "987.654.321-00",
+        "plan": "Premium",
+        "expiration": 60,
+        "id": 2
+    },
+    {
+        "name": "Client C",
+        "registration": "556.675.685-88",
+        "plan": "Basic",
+        "expiration": 30,
+        "id": 4
+    },
+    {
+        "name": "Client D",
+        "registration": "153.531.135-63",
+        "plan": "Premium",
+        "expiration": 60,
+        "id": 5
+    },
+    {
+        "name": "Client E",
+        "registration": "129.585.189-35",
+        "plan": "Basic",
+        "expiration": 30,
+        "id": 6
+    },
+    {
+        "name": "Cliente F",
+        "registration": "155.354.673-57",
+        "plan": "Premium",
+        "expiration": 60,
+        "id": 7
+    },
+    {
+        "name": "Client G",
+        "registration": "156.537.345-42",
+        "plan": "Gold",
+        "expiration": "90",
+        "id": 8
+    },
+    {
+        "name": "Client H",
+        "registration": "124.156.575-73",
+        "plan": "VIP",
+        "expiration": "120",
+        "id": 9
+    },
+    {
+        "name": "Client I",
+        "registration": "153.246.236-53",
+        "plan": "Gold",
+        "expiration": 90,
+        "id": 9
+    }
+]
