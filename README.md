@@ -62,8 +62,6 @@ Este projeto foi criado como um exercício prático para consolidar conhecimento
 
 </div>
 <div id="english">
-  
-## 📝 Project Description
 
 
 
